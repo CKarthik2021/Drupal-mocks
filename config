@@ -1,6 +1,6 @@
 [
 {
-title: "config",
-config: "{ "eyeMedStartDate": "2020-01-01"}"
+"title": "config",
+"config": "{\"eyeMedStartDate\": \"2020-01-01\"}"
 }
 ]
