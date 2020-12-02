@@ -1,6 +1,6 @@
 [
 {
-title: "configtest",
-config: "{\"eyeMedStartDate\": \"invalid\"}"
+"title": "configtest",
+"config": "{\"eyeMedStartDate\": \"invalid\"}"
 }
 ]
